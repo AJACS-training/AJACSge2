@@ -8,7 +8,7 @@
 
 ## 講師
 - 内藤雄樹(DBCLS)
-- 坊農秀雅(DBCLS)
+- [坊農秀雅](http://bonohu.jp/)(DBCLS)
 
 ## 内容
 
