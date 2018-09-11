@@ -155,12 +155,14 @@ Pubmedをインクリメンタルサーチ＆コロケーション検索
 
 JSTのバイオサイエンスデータベースセンター(NBDC)では、個人情報の保護に配慮しつつヒトに関するデータの共有や利用を推進するために、ヒトに関する様々なデータを共有するためのプラットフォーム『NBDCヒトデータベース』を設立するとともに、国立遺伝学研究所 [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/)と協力して、ヒトに関するデータを公開しています。
 
-- [【統合TV】「ライフサイエンス分野におけるデータの共有: NBDCヒトデータベースにおけるヒト由来情報の共有 @ JOSS2018」](http://doi.org/10.7875/togotv.2018.120)
+- [【統合TV】「ライフサイエンス分野におけるデータの共有: NBDCヒトデータベースにおけるヒト由来情報の共有 @ JOSS2018」](https://togotv.dbcls.jp/20180706.html)
 
 ### [TOGOVAR](https://togovar.biosciencedbc.jp)
 日本人ゲノム多様性統合データベース。
 
 - [TOGOVARとは](https://togovar.biosciencedbc.jp/doc/about)
+- [【統合TV】「TogoVar でヒトゲノムに存在するバリアントに関連する情報を調べる」](https://togotv.dbcls.jp/20180825.html)
+
 ----
 ### [DBCLS SRA](http://sra.dbcls.jp/)
 次世代シークエンサーの配列アーカイブSRA(Sequence Read Archive)に登録されたデータさまざまな統計情報から閲覧、比較、データのダウンロードが出来る目次サイト。
