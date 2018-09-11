@@ -6,7 +6,7 @@
 2018年9月11日 統合データベース講習会  
 広島大学東広島キャンパス
 
-  - [スライドPDF(準備中)]
+  - [スライドPDF](AJACSge2_02_naito.pdf)
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
@@ -54,42 +54,42 @@
 ![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACSge2/master/02_naito/images/GGRNA.v2.jpg
 "スクリーンショット")
 
-  - 統合遺伝子検索GGRNA – http://GGRNA.dbcls.jp/
+  - 統合遺伝子検索GGRNA – https://GGRNA.dbcls.jp/
   - 統合TVによる解説動画
     - [GGRNAで遺伝子をGoogleのように検索する](http://togotv.dbcls.jp/ja/20120124.html)
-  - ヒトのnanogを検索 – http://GGRNA.dbcls.jp/hs/nanog
-  - Accession番号から検索 –  http://GGRNA.dbcls.jp/NM_003380
+  - ヒトのnanogを検索 – https://GGRNA.dbcls.jp/hs/nanog
+  - Accession番号から検索 –  https://GGRNA.dbcls.jp/NM_003380
   - 塩基配列から検索
-    - 14bp – http://GGRNA.dbcls.jp/hs/caagaagagattgc
-    - 11bp – http://GGRNA.dbcls.jp/hs/caagaagagat
-    - 8bp – http://GGRNA.dbcls.jp/hs/caagaaga
-  - アミノ酸配列から検索 – http://GGRNA.dbcls.jp/SEHPL+MTCQSC
-  - PCRプライマー検索 – http://GGRNA.dbcls.jp/hs/seq%3aagctcattactttatcagtgca+comp%3atgacgtattcactcttctggtt
-  - マイクロアレイのプローブ検索 – http://GGRNA.dbcls.jp/1552311_a_at
+    - 14bp – https://GGRNA.dbcls.jp/hs/caagaagagattgc
+    - 11bp – https://GGRNA.dbcls.jp/hs/caagaagagat
+    - 8bp – https://GGRNA.dbcls.jp/hs/caagaaga
+  - アミノ酸配列から検索 – https://GGRNA.dbcls.jp/SEHPL+MTCQSC
+  - PCRプライマー検索 – https://GGRNA.dbcls.jp/hs/seq%3aagctcattactttatcagtgca+comp%3atgacgtattcactcttctggtt
+  - マイクロアレイのプローブ検索 – https://GGRNA.dbcls.jp/1552311_a_at
 
 #### 高速配列検索GGGenome ####
 
 ![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACSge2/master/02_naito/images/GGGenome_screen2.png
 "スクリーンショット")
 
-- 高速配列検索GGGenome – http://GGGenome.dbcls.jp/
+- 高速配列検索GGGenome – https://GGGenome.dbcls.jp/
   - 統合TVによる解説動画
     - [高速配列検索 GGGenome《ゲゲゲノム》の使い方](http://togotv.dbcls.jp/ja/20131025.html)
     - [GGGenome《ゲゲゲノム》で転写因子結合サイトを検索してゲノムブラウザに表示する](http://togotv.dbcls.jp/ja/20150721.html)
-  - ミスマッチやギャップを含む検索 – http://GGGenome.dbcls.jp/hg19/2/TTCACTGACAACATTGAGTA
+  - ミスマッチやギャップを含む検索 – https://GGGenome.dbcls.jp/hg19/2/TTCACTGACAACATTGAGTA
   - 表計算ソフトで塩基配列検索
     - [Googleスプレッドシート](https://docs.google.com/spreadsheet/ccc?key=0AqoKv30zqpDbdHJpSFI1SzJOZmxjVkYzUXByMFhrWWc&usp=sharing#gid=0) を参照
   - 検索結果をゲノムブラウザ上に表示
     1. UCSCゲノムブラウザ (http://genome.ucsc.edu/cgi-bin/hgTracks)
     2. 「add custom tracks」ボタン
-    3. 「http://GGGenome.dbcls.jp/hg19/(検索したい配列).bed」と入力
+    3. 「https://GGGenome.dbcls.jp/hg19/(検索したい配列).bed」と入力
 
 #### CRISPR設計ウェブサーバCRISPRdirect ####
 
 ![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACSge2/master/02_naito/images/CRISPRscreen.png
 "スクリーンショット")
 
-  - CRISPRdirect - http://crispr.dbcls.jp/
+  - CRISPRdirect - https://crispr.dbcls.jp/
   - 統合TVによる解説動画
     - [CRISPRdirectを使ってCRISPR/Cas法のガイドRNA配列を設計する](http://togotv.dbcls.jp/ja/20140412.html)
 
@@ -110,7 +110,7 @@
 ![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACSge2/master/02_naito/images/siDirect_top.jpg
 "スクリーンショット")
 
-  - テキスト比較ツール difff《ﾃﾞｭﾌﾌ》(http://difff.jp/)
+  - テキスト比較ツール difff《ﾃﾞｭﾌﾌ》(https://difff.jp/)
   - 統合TVによる解説動画
     - [difff《ﾃﾞｭﾌﾌ》を使って文章の変更箇所を調べる](http://togotv.dbcls.jp/ja/20130828.html)
 
