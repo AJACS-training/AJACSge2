@@ -153,3 +153,12 @@
 
 ![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACSge2/master/02_naito/images/B2uOQ3eCIAAFX9A.png
 "スクリーンショット")
+
+License
+--------
+
+Copyright &copy; 2018 Yuki Naito
+ ([@meso_cacase](http://twitter.com/meso_cacase)) at  
+Database Center for Life Science (DBCLS), Japan.  
+Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja).  
+(クレジットを表示することにより自由に改変および再利用が可能です)
